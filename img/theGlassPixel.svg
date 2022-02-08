@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="168.53893mm"
+   height="168.53894mm"
+   viewBox="0 0 168.53893 168.53894"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="theGlassPixel.svg"
+   inkscape:export-filename="/home/fx/pictures/theGlassPixel.png"
+   inkscape:export-xdpi="300.01236"
+   inkscape:export-ydpi="300.01236">
+  <defs
+     id="defs2">
+    <filter
+       x="-0.30000001"
+       width="1.6"
+       y="-0.30000001"
+       height="1.6"
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Felt Feather"
+       id="filter4875">
+      <feGaussianBlur
+         stdDeviation="3.97 6.69"
+         result="blur"
+         id="feGaussianBlur4859" />
+      <feComposite
+         in="SourceGraphic"
+         in2="blur"
+         operator="atop"
+         result="composite1"
+         id="feComposite4861" />
+      <feComposite
+         in2="composite1"
+         operator="in"
+         result="composite2"
+         id="feComposite4863" />
+      <feComposite
+         in2="composite2"
+         operator="in"
+         result="composite3"
+         id="feComposite4865" />
+      <feTurbulence
+         type="fractalNoise"
+         numOctaves="3"
+         seed="35"
+         baseFrequency="0.4949 0.614"
+         result="turbulence"
+         id="feTurbulence4867" />
+      <feDisplacementMap
+         in="composite3"
+         in2="turbulence"
+         xChannelSelector="R"
+         scale="42.5"
+         yChannelSelector="G"
+         result="map"
+         id="feDisplacementMap4869" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 40.41 -11.14 "
+         result="colormatrix"
+         id="feColorMatrix4871" />
+      <feComposite
+         in="composite3"
+         in2="colormatrix"
+         operator="atop"
+         result="fbSourceGraphic"
+         id="feComposite4873" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4877" />
+      <feGaussianBlur
+         id="feGaussianBlur4879"
+         stdDeviation="3.97 6.69"
+         result="blur"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="blur"
+         id="feComposite4881"
+         in="fbSourceGraphic"
+         operator="atop"
+         result="composite1" />
+      <feComposite
+         in2="composite1"
+         id="feComposite4883"
+         operator="in"
+         result="composite2" />
+      <feComposite
+         in2="composite2"
+         id="feComposite4885"
+         operator="in"
+         result="composite3" />
+      <feTurbulence
+         id="feTurbulence4887"
+         type="fractalNoise"
+         numOctaves="3"
+         seed="35"
+         baseFrequency="0.4949 0.614"
+         result="turbulence" />
+      <feDisplacementMap
+         in2="turbulence"
+         id="feDisplacementMap4889"
+         in="composite3"
+         xChannelSelector="R"
+         scale="42.5"
+         yChannelSelector="G"
+         result="map" />
+      <feColorMatrix
+         id="feColorMatrix4891"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 40.41 -11.14 "
+         result="colormatrix" />
+      <feComposite
+         in2="colormatrix"
+         id="feComposite4893"
+         in="composite3"
+         operator="atop"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4895" />
+      <feGaussianBlur
+         id="feGaussianBlur4897"
+         stdDeviation="3.97 6.69"
+         result="blur"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="blur"
+         id="feComposite4899"
+         in="fbSourceGraphic"
+         operator="atop"
+         result="composite1" />
+      <feComposite
+         in2="composite1"
+         id="feComposite4901"
+         operator="in"
+         result="composite2" />
+      <feComposite
+         in2="composite2"
+         id="feComposite4903"
+         operator="in"
+         result="composite3" />
+      <feTurbulence
+         id="feTurbulence4905"
+         type="fractalNoise"
+         numOctaves="3"
+         seed="35"
+         baseFrequency="0.4949 0.614"
+         result="turbulence" />
+      <feDisplacementMap
+         in2="turbulence"
+         id="feDisplacementMap4907"
+         in="composite3"
+         xChannelSelector="R"
+         scale="42.5"
+         yChannelSelector="G"
+         result="map" />
+      <feColorMatrix
+         id="feColorMatrix4909"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 40.41 -11.14 "
+         result="colormatrix" />
+      <feComposite
+         in2="colormatrix"
+         id="feComposite4911"
+         in="composite3"
+         operator="atop"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4913" />
+      <feGaussianBlur
+         id="feGaussianBlur4915"
+         stdDeviation="3.97 6.69"
+         result="blur"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="blur"
+         id="feComposite4917"
+         in="fbSourceGraphic"
+         operator="atop"
+         result="composite1" />
+      <feComposite
+         in2="composite1"
+         id="feComposite4919"
+         operator="in"
+         result="composite2" />
+      <feComposite
+         in2="composite2"
+         id="feComposite4921"
+         operator="in"
+         result="composite3" />
+      <feTurbulence
+         id="feTurbulence4923"
+         type="fractalNoise"
+         numOctaves="3"
+         seed="35"
+         baseFrequency="0.4949 0.614"
+         result="turbulence" />
+      <feDisplacementMap
+         in2="turbulence"
+         id="feDisplacementMap4925"
+         in="composite3"
+         xChannelSelector="R"
+         scale="42.5"
+         yChannelSelector="G"
+         result="map" />
+      <feColorMatrix
+         id="feColorMatrix4927"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 40.41 -11.14 "
+         result="colormatrix" />
+      <feComposite
+         in2="colormatrix"
+         id="feComposite4929"
+         in="composite3"
+         operator="atop"
+         result="composite4" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.27476149"
+     inkscape:cx="170.68042"
+     inkscape:cy="367.7449"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1024"
+     inkscape:window-height="748"
+     inkscape:window-x="0"
+     inkscape:window-y="20"
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-20.410907,-63.046499)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.4319px;line-height:1.25;font-family:'Bulgarian Courier';-inkscape-font-specification:'Bulgarian Courier, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.760799"
+       x="122.61951"
+       y="92.680527"
+       id="text3734-3"
+       transform="scale(0.85972436,1.1631635)"
+       inkscape:export-xdpi="300.01236"
+       inkscape:export-ydpi="300.01236"><tspan
+         sodipodi:role="line"
+         x="122.61951"
+         y="92.680527"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.4319px;font-family:'Bulgarian Courier';-inkscape-font-specification:'Bulgarian Courier, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.760799"
+         id="tspan3738-6">the</tspan><tspan
+         sodipodi:role="line"
+         x="122.61951"
+         y="130.7204"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.4319px;font-family:'Bulgarian Courier';-inkscape-font-specification:'Bulgarian Courier, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.760799"
+         id="tspan3860">glass</tspan><tspan
+         sodipodi:role="line"
+         x="122.61951"
+         y="168.76028"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.4319px;font-family:'Bulgarian Courier';-inkscape-font-specification:'Bulgarian Courier, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.760799"
+         id="tspan3862">pixel</tspan></text>
+    <rect
+       id="rect3780-7"
+       width="167.76915"
+       height="167.76917"
+       x="20.795794"
+       y="63.431385"
+       style="fill:none;stroke:#000000;stroke-width:0.35277778;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-xdpi="300.01236"
+       inkscape:export-ydpi="300.01236" />
+  </g>
+</svg>
