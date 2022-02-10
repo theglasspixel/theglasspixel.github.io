@@ -642,9 +642,11 @@ p.social a {
 }
 p.social a img{
   width: 25px;
+  max-height: 30px;
 }
 p.social a img:hover{
   width: 35px;
+  max-height: 40px;
 }
 p.social a:hover {
   color: #ff7473;
