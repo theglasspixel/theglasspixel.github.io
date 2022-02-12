@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Glass Pixel</title>
+    <title>The Glass Pixel: a repository of digital abstract art</title>
     <link>https://theglasspixel.art/</link>
-    <description>Recent content on The Glass Pixel</description>
+    <description>Recent content on The Glass Pixel: a repository of digital abstract art</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 06 Nov 2016 13:00:25 +0530</lastBuildDate><atom:link href="https://theglasspixel.art/index.xml" rel="self" type="application/rss+xml" />
