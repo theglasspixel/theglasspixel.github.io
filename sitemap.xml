@@ -3,14 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://theglasspixel.art/contact/</loc>
-    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
+    <loc>https://theglasspixel.art/portfolio/21/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://theglasspixel.art/portfolio/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://theglasspixel.art/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://theglasspixel.art/contact/</loc>
     <lastmod>2016-11-06T13:00:25+05:30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -19,12 +33,6 @@
   <url>
     <loc>https://theglasspixel.art/about/</loc>
     <lastmod>2016-11-05T21:05:33+05:30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://theglasspixel.art/portfolio/21/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -97,12 +105,6 @@
   
   <url>
     <loc>https://theglasspixel.art/portfolio/02/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://theglasspixel.art/portfolio/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
