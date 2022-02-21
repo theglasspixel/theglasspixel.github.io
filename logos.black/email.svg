@@ -42,29 +42,29 @@
    inkscape:document-rotation="0" />
 <g
    id="g432"
-   style="fill:#ffffff">
+   style="fill:#000000">
 	<g
    id="g430"
-   style="fill:#ffffff">
+   style="fill:#000000">
 		<g
    id="g428"
-   style="fill:#ffffff">
+   style="fill:#000000">
 			<path
    d="M295.2,257.8L251.4,295c-3.5,2.9-8.6,2.9-12,0l-43.8-37.1L16.7,409.1h456.6L295.2,257.8z"
    id="path420"
-   style="fill:#ffffff" />
+   style="fill:#000000" />
 			<polygon
    points="0,92.2 0,397.8 180.1,245    "
    id="polygon422"
-   style="fill:#ffffff" />
+   style="fill:#000000" />
 			<polygon
    points="16.7,80.9 245,274.6 473.3,80.9    "
    id="polygon424"
-   style="fill:#ffffff" />
+   style="fill:#000000" />
 			<polygon
    points="309.9,245 490,397.8 490,92.2    "
    id="polygon426"
-   style="fill:#ffffff" />
+   style="fill:#000000" />
 		</g>
 	</g>
 </g>
