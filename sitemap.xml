@@ -3,6 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://theglasspixel.art/</loc>
+    <lastmod>2022-02-24T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://theglasspixel.art/words/2022/the-new-computer/</loc>
+    <lastmod>2022-02-24T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://theglasspixel.art/words/</loc>
+    <lastmod>2022-02-24T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://theglasspixel.art/portfolio/2022/deprofound-souspirs/</loc>
     <lastmod>2022-02-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -17,36 +38,15 @@
   </url>
   
   <url>
-    <loc>https://theglasspixel.art/</loc>
-    <lastmod>2022-02-23T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://theglasspixel.art/words/2022/the-new-computer/</loc>
-    <lastmod>2022-02-20T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://theglasspixel.art/words/</loc>
-    <lastmod>2022-02-20T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://theglasspixel.art/portfolio/2022/glimmering-flesh/</loc>
-    <lastmod>2022-02-19T00:00:00+00:00</lastmod>
+    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://theglasspixel.art/portfolio/2022/abstract-9/</loc>
-    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-02-21T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -130,13 +130,6 @@
   
   <url>
     <loc>https://theglasspixel.art/portfolio/2022/the-eternal-eye/</loc>
-    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://theglasspixel.art/words/2022/the-eternal-eye/</loc>
     <lastmod>2022-02-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
