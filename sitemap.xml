@@ -59,6 +59,13 @@
   </url>
   
   <url>
+    <loc>https://theglasspixel.art/portfolio/2022/solitude/</loc>
+    <lastmod>2022-02-20T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://theglasspixel.art/portfolio/2022/behind-the-light/</loc>
     <lastmod>2022-02-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -123,13 +130,6 @@
   
   <url>
     <loc>https://theglasspixel.art/portfolio/2022/man-on-the-moon/</loc>
-    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://theglasspixel.art/portfolio/2022/solitude/</loc>
     <lastmod>2022-02-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

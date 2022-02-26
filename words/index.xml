@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Words on The Glass Pixel: a repository of digital abstract art</title>
+    <title>Words on The Glass Pixel: a digital art website</title>
     <link>https://theglasspixel.art/words/</link>
-    <description>Recent content in Words on The Glass Pixel: a repository of digital abstract art</description>
+    <description>Recent content in Words on The Glass Pixel: a digital art website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 25 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://theglasspixel.art/words/index.xml" rel="self" type="application/rss+xml" />
