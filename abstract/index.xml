@@ -1,9 +1,285 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Abstracts on The Glass Pixel: a digital art website</title><link>https://theglasspixel.art/abstract/</link><description>Recent content in Abstracts on The Glass Pixel: a digital art website</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 02 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://theglasspixel.art/abstract/index.xml" rel="self" type="application/rss+xml"/><item><title>Aftening</title><link>https://theglasspixel.art/portfolio/2022/aftening/</link><pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate><guid>https://theglasspixel.art/portfolio/2022/aftening/</guid><description>so, I woke up today and immediately fell out the window and SPLAT! right on the sidewalk, people crawling all over me, complaining about the bleeding man lying all twisted on their path to very important things. anyway, when the ambulance finally arrived, they had to scrape me off the pavement. I&amp;rsquo;m telling you, it&amp;rsquo;s been a stressful day, but long story short, when I finally got home I turned on my trusty new computer and spent a few hours attacking this poor image.</description></item><item><title>Portfolios</title><link>https://theglasspixel.art/portfolio/</link><pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate><guid>https://theglasspixel.art/portfolio/</guid><description/></item><item><title>Colores Aglaia</title><link>https://theglasspixel.art/portfolio/2022/colores-aglaia/</link><pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate><guid>https://theglasspixel.art/portfolio/2022/colores-aglaia/</guid><description> You can buy this and many other images as canvas prints, t-shirts, mugs, pillows, etc, at the following online stores:</description></item><item><title>Deprofound Souspirs</title><link>https://theglasspixel.art/portfolio/2022/deprofound-souspirs/</link><pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate><guid>https://theglasspixel.art/portfolio/2022/deprofound-souspirs/</guid><description> You can buy this and many other images as canvas prints, t-shirts, mugs, pillows, etc, at the following online stores:</description></item><item><title>Glimmering Flesh</title><link>https://theglasspixel.art/portfolio/2022/glimmering-flesh/</link><pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate><guid>https://theglasspixel.art/portfolio/2022/glimmering-flesh/</guid><description> You can buy this and many other images as canvas prints, t-shirts, mugs, pillows, etc, at the following online stores:</description></item><item><title>Abstract 9</title><link>https://theglasspixel.art/portfolio/2022/abstract-9/</link><pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate><guid>https://theglasspixel.art/portfolio/2022/abstract-9/</guid><description> You can buy this and many other images as canvas prints, t-shirts, mugs, pillows, etc, at the following online stores:</description></item><item><title>Solitude</title><link>https://theglasspixel.art/portfolio/2022/solitude/</link><pubDate>Sun, 20 Feb 2022 00:00:00 +0000</pubDate><guid>https://theglasspixel.art/portfolio/2022/solitude/</guid><description> You can buy this and many other images as canvas prints, t-shirts, mugs, pillows, etc, at the following online stores:</description></item><item><title>The Volcano</title><link>https://theglasspixel.art/portfolio/2022/the-volcano/</link><pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate><guid>https://theglasspixel.art/portfolio/2022/the-volcano/</guid><description> You can buy this and many other images as canvas prints, t-shirts, mugs, pillows, etc, at the following online stores:</description></item><item><title>Closed Eyes</title><link>https://theglasspixel.art/portfolio/2022/closed-eyes/</link><pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate><guid>https://theglasspixel.art/portfolio/2022/closed-eyes/</guid><description> You can buy this and many other images as canvas prints, t-shirts, mugs, pillows, etc, at the following online stores:</description></item><item><title>The Holy Mountain</title><link>https://theglasspixel.art/portfolio/2022/the-holy-mountain/</link><pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate><guid>https://theglasspixel.art/portfolio/2022/the-holy-mountain/</guid><description> You can buy this and many other images as canvas prints, t-shirts, mugs, pillows, etc, at the following online stores:</description></item><item><title>The Way Out</title><link>https://theglasspixel.art/portfolio/2022/the-way-out/</link><pubDate>Wed, 16 Feb 2022 00:00:00 +0000</pubDate><guid>https://theglasspixel.art/portfolio/2022/the-way-out/</guid><description> You can buy this and many other images as canvas prints, t-shirts, mugs, pillows, etc, at the following online stores:</description></item><item><title>Warming Touch</title><link>https://theglasspixel.art/portfolio/2022/warming-touch/</link><pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate><guid>https://theglasspixel.art/portfolio/2022/warming-touch/</guid><description>that one summer afternoon the sun was so bright, so warm, so overwhelmingly penetrating, that I had to rush my pet octopus back inside lest the poor thing would start flying off (it wouldn&amp;rsquo;t be the first time!).
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abstracts on The Glass Pixel: a digital art website</title>
+    <link>https://theglasspixel.art/abstract/</link>
+    <description>Recent content in Abstracts on The Glass Pixel: a digital art website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://theglasspixel.art/abstract/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aftening</title>
+      <link>https://theglasspixel.art/portfolio/2022/aftening/</link>
+      <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://theglasspixel.art/portfolio/2022/aftening/</guid>
+      <description>so, I woke up today and immediately fell out the window and SPLAT! right on the sidewalk, people crawling all over me, complaining about the bleeding man lying all twisted on their path to very important things. anyway, when the ambulance finally arrived, they had to scrape me off the pavement. I&amp;rsquo;m telling you, it&amp;rsquo;s been a stressful day, but long story short, when I finally got home I turned on my trusty new computer and spent a few hours attacking this poor image.</description>
+    </item>
+    
+    <item>
+      <title>Portfolios</title>
+      <link>https://theglasspixel.art/portfolio/</link>
+      <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://theglasspixel.art/portfolio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Colores Aglaia</title>
+      <link>https://theglasspixel.art/portfolio/2022/colores-aglaia/</link>
+      <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://theglasspixel.art/portfolio/2022/colores-aglaia/</guid>
+      <description>  You can buy this and many other images as canvas prints, t-shirts, mugs, pillows, etc, at the following online stores:       </description>
+    </item>
+    
+    <item>
+      <title>Deprofound Souspirs</title>
+      <link>https://theglasspixel.art/portfolio/2022/deprofound-souspirs/</link>
+      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://theglasspixel.art/portfolio/2022/deprofound-souspirs/</guid>
+      <description>  You can buy this and many other images as canvas prints, t-shirts, mugs, pillows, etc, at the following online stores:       </description>
+    </item>
+    
+    <item>
+      <title>Glimmering Flesh</title>
+      <link>https://theglasspixel.art/portfolio/2022/glimmering-flesh/</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://theglasspixel.art/portfolio/2022/glimmering-flesh/</guid>
+      <description>  You can buy this and many other images as canvas prints, t-shirts, mugs, pillows, etc, at the following online stores:       </description>
+    </item>
+    
+    <item>
+      <title>Abstract 9</title>
+      <link>https://theglasspixel.art/portfolio/2022/abstract-9/</link>
+      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://theglasspixel.art/portfolio/2022/abstract-9/</guid>
+      <description>  You can buy this and many other images as canvas prints, t-shirts, mugs, pillows, etc, at the following online stores:       </description>
+    </item>
+    
+    <item>
+      <title>Solitude</title>
+      <link>https://theglasspixel.art/portfolio/2022/solitude/</link>
+      <pubDate>Sun, 20 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://theglasspixel.art/portfolio/2022/solitude/</guid>
+      <description>  You can buy this and many other images as canvas prints, t-shirts, mugs, pillows, etc, at the following online stores:       </description>
+    </item>
+    
+    <item>
+      <title>The Volcano</title>
+      <link>https://theglasspixel.art/portfolio/2022/the-volcano/</link>
+      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://theglasspixel.art/portfolio/2022/the-volcano/</guid>
+      <description>  You can buy this and many other images as canvas prints, t-shirts, mugs, pillows, etc, at the following online stores:       </description>
+    </item>
+    
+    <item>
+      <title>Closed Eyes</title>
+      <link>https://theglasspixel.art/portfolio/2022/closed-eyes/</link>
+      <pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://theglasspixel.art/portfolio/2022/closed-eyes/</guid>
+      <description>  You can buy this and many other images as canvas prints, t-shirts, mugs, pillows, etc, at the following online stores:     </description>
+    </item>
+    
+    <item>
+      <title>The Holy Mountain</title>
+      <link>https://theglasspixel.art/portfolio/2022/the-holy-mountain/</link>
+      <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://theglasspixel.art/portfolio/2022/the-holy-mountain/</guid>
+      <description>  You can buy this and many other images as canvas prints, t-shirts, mugs, pillows, etc, at the following online stores:       </description>
+    </item>
+    
+    <item>
+      <title>The Way Out</title>
+      <link>https://theglasspixel.art/portfolio/2022/the-way-out/</link>
+      <pubDate>Wed, 16 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://theglasspixel.art/portfolio/2022/the-way-out/</guid>
+      <description>  You can buy this and many other images as canvas prints, t-shirts, mugs, pillows, etc, at the following online stores:       </description>
+    </item>
+    
+    <item>
+      <title>Warming Touch</title>
+      <link>https://theglasspixel.art/portfolio/2022/warming-touch/</link>
+      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://theglasspixel.art/portfolio/2022/warming-touch/</guid>
+      <description>that one summer afternoon the sun was so bright, so warm, so overwhelmingly penetrating, that I had to rush my pet octopus back inside lest the poor thing would start flying off (it wouldn&amp;rsquo;t be the first time!).
 anyway, back inside, I sat down with my old computer and stared at the screen till it went cherchons la flamme! fammfamm! fammfamm!
-then this image appeared. did I do a good job?</description></item><item><title>The Eternal Eye</title><link>https://theglasspixel.art/portfolio/2022/the-eternal-eye/</link><pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate><guid>https://theglasspixel.art/portfolio/2022/the-eternal-eye/</guid><description> You can buy this and many other images as canvas prints, t-shirts, mugs, pillows, etc, at the following online stores:</description></item><item><title>The Hole</title><link>https://theglasspixel.art/portfolio/2022/the-hole/</link><pubDate>Sun, 13 Feb 2022 00:00:00 +0000</pubDate><guid>https://theglasspixel.art/portfolio/2022/the-hole/</guid><description> You can buy this and many other images as canvas prints, t-shirts, mugs, pillows, etc, at the following online stores:</description></item><item><title>Light Circles</title><link>https://theglasspixel.art/portfolio/2022/light-circles/</link><pubDate>Sat, 12 Feb 2022 00:00:00 +0000</pubDate><guid>https://theglasspixel.art/portfolio/2022/light-circles/</guid><description> You can buy this and many other images as canvas prints, t-shirts, mugs, pillows, etc, at the following online stores:</description></item><item><title>Black Holes</title><link>https://theglasspixel.art/portfolio/2022/black-holes/</link><pubDate>Fri, 11 Feb 2022 00:00:00 +0000</pubDate><guid>https://theglasspixel.art/portfolio/2022/black-holes/</guid><description> You can buy this and many other images as canvas prints, t-shirts, mugs, pillows, etc, at the following online stores:</description></item><item><title>Broken Portrait</title><link>https://theglasspixel.art/portfolio/2022/broken-portrait/</link><pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate><guid>https://theglasspixel.art/portfolio/2022/broken-portrait/</guid><description> You can buy this and many other images as canvas prints, t-shirts, mugs, pillows, etc, at the following online stores:</description></item><item><title>Loose Grip</title><link>https://theglasspixel.art/portfolio/2022/loose-grip/</link><pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate><guid>https://theglasspixel.art/portfolio/2022/loose-grip/</guid><description> You can buy this and many other images as canvas prints, t-shirts, mugs, pillows, etc, at the following online stores:</description></item><item><title>Inner Forest</title><link>https://theglasspixel.art/portfolio/2022/inner-forest/</link><pubDate>Tue, 08 Feb 2022 00:00:00 +0000</pubDate><guid>https://theglasspixel.art/portfolio/2022/inner-forest/</guid><description> You can buy this and many other images as canvas prints, t-shirts, mugs, pillows, etc, at the following online stores:</description></item><item><title>Behind the Light</title><link>https://theglasspixel.art/portfolio/2022/behind-the-light/</link><pubDate>Mon, 07 Feb 2022 00:00:00 +0000</pubDate><guid>https://theglasspixel.art/portfolio/2022/behind-the-light/</guid><description> You can buy this and many other images as canvas prints, t-shirts, mugs, pillows, etc, at the following online stores:</description></item><item><title>First Contact</title><link>https://theglasspixel.art/portfolio/2022/first-contact/</link><pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate><guid>https://theglasspixel.art/portfolio/2022/first-contact/</guid><description> You can buy this and many other images as canvas prints, t-shirts, mugs, pillows, etc, at the following online stores:</description></item><item><title>Broken Sun</title><link>https://theglasspixel.art/portfolio/2022/broken-sun/</link><pubDate>Sat, 05 Feb 2022 00:00:00 +0000</pubDate><guid>https://theglasspixel.art/portfolio/2022/broken-sun/</guid><description> You can buy this and many other images as canvas prints, t-shirts, mugs, pillows, etc, at the following online stores:</description></item><item><title>The Mask</title><link>https://theglasspixel.art/portfolio/2022/the-mask/</link><pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate><guid>https://theglasspixel.art/portfolio/2022/the-mask/</guid><description> You can buy this and many other images as canvas prints, t-shirts, mugs, pillows, etc, at the following online stores:</description></item><item><title>Three Lights</title><link>https://theglasspixel.art/portfolio/2022/three-lights/</link><pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate><guid>https://theglasspixel.art/portfolio/2022/three-lights/</guid><description> You can buy this and many other images as canvas prints, t-shirts, mugs, pillows, etc, at the following online stores:</description></item><item><title>Man on the Moon</title><link>https://theglasspixel.art/portfolio/2022/man-on-the-moon/</link><pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate><guid>https://theglasspixel.art/portfolio/2022/man-on-the-moon/</guid><description> You can buy this and many other images as canvas prints, t-shirts, mugs, pillows, etc, at the following online stores:</description></item><item><title>Waiting</title><link>https://theglasspixel.art/portfolio/2022/waiting/</link><pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate><guid>https://theglasspixel.art/portfolio/2022/waiting/</guid><description> You can buy this and many other images as canvas prints, t-shirts, mugs, pillows, etc, at the following online stores:</description></item><item><title>Blogs</title><link>https://theglasspixel.art/blog/</link><pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate><guid>https://theglasspixel.art/blog/</guid><description/></item><item><title>Frank's Wild Paintings</title><link>https://theglasspixel.art/blog/008/</link><pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate><guid>https://theglasspixel.art/blog/008/</guid><description>well, Frank settled down in the city, his wild years long gone and forgotten, and every day, with a limp and a cigarette, he walks down from his two-room apartment to the library downtown where he spends the days reading and sleeping and forgetting about the images in his head.
-and every day he floats through the tall windows and opens his wings of golden shimmer against the rain-drenched smog while glass facades melt under red lights.</description></item><item><title>The Unbearable Weight of Modesty</title><link>https://theglasspixel.art/blog/007/</link><pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate><guid>https://theglasspixel.art/blog/007/</guid><description>people will often approach me with a shy smile and downcast gaze, and question me about my artistic career. &amp;ldquo;how is it,&amp;rdquo; they ask, &amp;ldquo;that you can be so successful, so brilliant, so famous and beloved, while we, the rest of humanity, remain in this uneducated darkness. how can we ever hope to achieve, or to even barely touch your greatness?&amp;rdquo;
+then this image appeared. did I do a good job?</description>
+    </item>
+    
+    <item>
+      <title>The Eternal Eye</title>
+      <link>https://theglasspixel.art/portfolio/2022/the-eternal-eye/</link>
+      <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://theglasspixel.art/portfolio/2022/the-eternal-eye/</guid>
+      <description>  You can buy this and many other images as canvas prints, t-shirts, mugs, pillows, etc, at the following online stores:       </description>
+    </item>
+    
+    <item>
+      <title>The Hole</title>
+      <link>https://theglasspixel.art/portfolio/2022/the-hole/</link>
+      <pubDate>Sun, 13 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://theglasspixel.art/portfolio/2022/the-hole/</guid>
+      <description>  You can buy this and many other images as canvas prints, t-shirts, mugs, pillows, etc, at the following online stores:       </description>
+    </item>
+    
+    <item>
+      <title>Light Circles</title>
+      <link>https://theglasspixel.art/portfolio/2022/light-circles/</link>
+      <pubDate>Sat, 12 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://theglasspixel.art/portfolio/2022/light-circles/</guid>
+      <description>  You can buy this and many other images as canvas prints, t-shirts, mugs, pillows, etc, at the following online stores:       </description>
+    </item>
+    
+    <item>
+      <title>Black Holes</title>
+      <link>https://theglasspixel.art/portfolio/2022/black-holes/</link>
+      <pubDate>Fri, 11 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://theglasspixel.art/portfolio/2022/black-holes/</guid>
+      <description>  You can buy this and many other images as canvas prints, t-shirts, mugs, pillows, etc, at the following online stores:      </description>
+    </item>
+    
+    <item>
+      <title>Broken Portrait</title>
+      <link>https://theglasspixel.art/portfolio/2022/broken-portrait/</link>
+      <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://theglasspixel.art/portfolio/2022/broken-portrait/</guid>
+      <description>  You can buy this and many other images as canvas prints, t-shirts, mugs, pillows, etc, at the following online stores:      </description>
+    </item>
+    
+    <item>
+      <title>Loose Grip</title>
+      <link>https://theglasspixel.art/portfolio/2022/loose-grip/</link>
+      <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://theglasspixel.art/portfolio/2022/loose-grip/</guid>
+      <description>  You can buy this and many other images as canvas prints, t-shirts, mugs, pillows, etc, at the following online stores:       </description>
+    </item>
+    
+    <item>
+      <title>Inner Forest</title>
+      <link>https://theglasspixel.art/portfolio/2022/inner-forest/</link>
+      <pubDate>Tue, 08 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://theglasspixel.art/portfolio/2022/inner-forest/</guid>
+      <description>  You can buy this and many other images as canvas prints, t-shirts, mugs, pillows, etc, at the following online stores:       </description>
+    </item>
+    
+    <item>
+      <title>Behind the Light</title>
+      <link>https://theglasspixel.art/portfolio/2022/behind-the-light/</link>
+      <pubDate>Mon, 07 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://theglasspixel.art/portfolio/2022/behind-the-light/</guid>
+      <description>  You can buy this and many other images as canvas prints, t-shirts, mugs, pillows, etc, at the following online stores:       </description>
+    </item>
+    
+    <item>
+      <title>First Contact</title>
+      <link>https://theglasspixel.art/portfolio/2022/first-contact/</link>
+      <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://theglasspixel.art/portfolio/2022/first-contact/</guid>
+      <description>  You can buy this and many other images as canvas prints, t-shirts, mugs, pillows, etc, at the following online stores:       </description>
+    </item>
+    
+    <item>
+      <title>Broken Sun</title>
+      <link>https://theglasspixel.art/portfolio/2022/broken-sun/</link>
+      <pubDate>Sat, 05 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://theglasspixel.art/portfolio/2022/broken-sun/</guid>
+      <description>  You can buy this and many other images as canvas prints, t-shirts, mugs, pillows, etc, at the following online stores:       </description>
+    </item>
+    
+    <item>
+      <title>The Mask</title>
+      <link>https://theglasspixel.art/portfolio/2022/the-mask/</link>
+      <pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://theglasspixel.art/portfolio/2022/the-mask/</guid>
+      <description>  You can buy this and many other images as canvas prints, t-shirts, mugs, pillows, etc, at the following online stores:       </description>
+    </item>
+    
+    <item>
+      <title>Three Lights</title>
+      <link>https://theglasspixel.art/portfolio/2022/three-lights/</link>
+      <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://theglasspixel.art/portfolio/2022/three-lights/</guid>
+      <description>  You can buy this and many other images as canvas prints, t-shirts, mugs, pillows, etc, at the following online stores:      </description>
+    </item>
+    
+    <item>
+      <title>Man on the Moon</title>
+      <link>https://theglasspixel.art/portfolio/2022/man-on-the-moon/</link>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://theglasspixel.art/portfolio/2022/man-on-the-moon/</guid>
+      <description>  You can buy this and many other images as canvas prints, t-shirts, mugs, pillows, etc, at the following online stores:     </description>
+    </item>
+    
+    <item>
+      <title>Waiting</title>
+      <link>https://theglasspixel.art/portfolio/2022/waiting/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://theglasspixel.art/portfolio/2022/waiting/</guid>
+      <description>  You can buy this and many other images as canvas prints, t-shirts, mugs, pillows, etc, at the following online stores:      </description>
+    </item>
+    
+    <item>
+      <title>Blogs</title>
+      <link>https://theglasspixel.art/blog/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://theglasspixel.art/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frank&#39;s Wild Paintings</title>
+      <link>https://theglasspixel.art/blog/008/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://theglasspixel.art/blog/008/</guid>
+      <description>well, Frank settled down in the city, his wild years long gone and forgotten, and every day, with a limp and a cigarette, he walks down from his two-room apartment to the library downtown where he spends the days reading and sleeping and forgetting about the images in his head.
+and every day he floats through the tall windows and opens his wings of golden shimmer against the rain-drenched smog while glass facades melt under red lights.</description>
+    </item>
+    
+    <item>
+      <title>The Unbearable Weight of Modesty</title>
+      <link>https://theglasspixel.art/blog/007/</link>
+      <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://theglasspixel.art/blog/007/</guid>
+      <description>people will often approach me with a shy smile and downcast gaze, and question me about my artistic career. &amp;ldquo;how is it,&amp;rdquo; they ask, &amp;ldquo;that you can be so successful, so brilliant, so famous and beloved, while we, the rest of humanity, remain in this uneducated darkness. how can we ever hope to achieve, or to even barely touch your greatness?&amp;rdquo;
 this sort of thing amuses me, obviously.
-but they insist: &amp;ldquo;and your writing prowess!</description></item><item><title>An Escape for the Anxious Artist</title><link>https://theglasspixel.art/blog/006/</link><pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate><guid>https://theglasspixel.art/blog/006/</guid><description>yes.
+but they insist: &amp;ldquo;and your writing prowess!</description>
+    </item>
+    
+    <item>
+      <title>An Escape for the Anxious Artist</title>
+      <link>https://theglasspixel.art/blog/006/</link>
+      <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://theglasspixel.art/blog/006/</guid>
+      <description>yes.
 please repeat after me:
 om mani padme hum.
 again:
@@ -21,9 +297,58 @@ and it will become your ego,
 your flesh,
 your substance.
 it will become you,
-it will move like you,</description></item><item><title>In Defence of Broken Art</title><link>https://theglasspixel.art/blog/005/</link><pubDate>Fri, 04 Mar 2022 00:00:00 +0000</pubDate><guid>https://theglasspixel.art/blog/005/</guid><description>&amp;hellip;and dirty art, flawed art, art made by weirdos and misfits, those who vibrate from anxiety and pain and from feeling too much. art made on a whim, on a rush, without thinking. art made by those who can&amp;rsquo;t possibly make what they want to make. art by the ugly, the defective, the unlearned, the starving, by those without skin, their nervous endings exposed and freezing in the wind, their gums receding to the bone.</description></item><item><title>A Guide for the Impatient Digital Artist</title><link>https://theglasspixel.art/blog/004/</link><pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate><guid>https://theglasspixel.art/blog/004/</guid><description>my troubles began when I started hanging out with a spider&amp;hellip; I know, I know! you don&amp;rsquo;t really need to lecture me about the dangers of socializing too often with arachnidas, arthopods, or any other exoskeleton-covered animals.
-anyway, there I was, busy messing about with the Colores Aglaia thing, cursing at myself for never being able to get the damned image right the way I wanted it, my trusty new computer huffing and puffing in a cloud of scarlet-tinted vapor (boy, do these new generation machines have an awful breath!</description></item><item><title>Evolution - a short story</title><link>https://theglasspixel.art/blog/003/</link><pubDate>Sat, 26 Feb 2022 00:00:00 +0000</pubDate><guid>https://theglasspixel.art/blog/003/</guid><description>&amp;ldquo;Keep quiet, please.&amp;rdquo;
+it will move like you,</description>
+    </item>
+    
+    <item>
+      <title>In Defence of Broken Art</title>
+      <link>https://theglasspixel.art/blog/005/</link>
+      <pubDate>Fri, 04 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://theglasspixel.art/blog/005/</guid>
+      <description>&amp;hellip;and dirty art, flawed art, art made by weirdos and misfits, those who vibrate from anxiety and pain and from feeling too much. art made on a whim, on a rush, without thinking. art made by those who can&amp;rsquo;t possibly make what they want to make. art by the ugly, the defective, the unlearned, the starving, by those without skin, their nervous endings exposed and freezing in the wind, their gums receding to the bone.</description>
+    </item>
+    
+    <item>
+      <title>A Guide for the Impatient Digital Artist</title>
+      <link>https://theglasspixel.art/blog/004/</link>
+      <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://theglasspixel.art/blog/004/</guid>
+      <description>my troubles began when I started hanging out with a spider&amp;hellip; I know, I know! you don&amp;rsquo;t really need to lecture me about the dangers of socializing too often with arachnidas, arthopods, or any other exoskeleton-covered animals.
+anyway, there I was, busy messing about with the Colores Aglaia thing, cursing at myself for never being able to get the damned image right the way I wanted it, my trusty new computer huffing and puffing in a cloud of scarlet-tinted vapor (boy, do these new generation machines have an awful breath!</description>
+    </item>
+    
+    <item>
+      <title>Evolution - a short story</title>
+      <link>https://theglasspixel.art/blog/003/</link>
+      <pubDate>Sat, 26 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://theglasspixel.art/blog/003/</guid>
+      <description>&amp;ldquo;Keep quiet, please.&amp;rdquo;
 The medic stares at my sore scalp through cracked lenses. There are frail tweezers and alcohol, rusty syringes aligned between two poetry books, intermittently blinking monitors looking like long-abandoned miniature aquariums, vials of expired drugs in half-rotten cardboard boxes, a row of crimson-glazed ants marching past the abandoned decanters like a conquering army&amp;mdash;
 &amp;ldquo;I don&amp;rsquo;t think you&amp;rsquo;ve been honest with me&amp;hellip;&amp;rdquo;
-On the veranda, a chrysanthemum flower blooms like a flesh wound, its petals stretching across the windows.</description></item><item><title>SEO Conjuration for the Pro-Active Artist</title><link>https://theglasspixel.art/blog/002/</link><pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate><guid>https://theglasspixel.art/blog/002/</guid><description>(excerpt from an A.I. generated grimoire leaked from G&amp;rsquo;s internal emails)
-I do conjure thee, O thou Binary Spirits, by all the most glorious and efficacious names of the Most Great and Incomprehensible Lord of Algorithms, that thou comest quickly and without delay from all parts and places of the Interwebs wherever thou mayest be, to make rational crawls unto my demands, and that invisibly and swiftly, moving at the speed of electricity even without mine understanding as aforesaid.</description></item><item><title>The New Computer</title><link>https://theglasspixel.art/blog/001/</link><pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate><guid>https://theglasspixel.art/blog/001/</guid><description>my new computer is humming away in the corner of the room. it&amp;rsquo;s a brand-new machine I bought a few days ago and features all the modern niceties you might expect from such a tech marvel. the pipes, of course, are now gray-lead free and no longer release those clouds of greenish, mildly hallucinatory vapor we all know and hate, being instead fully encapsulated in a tight mesh of beetle-shell black string fully integrated with the smart, algorithmic-evolving, networked, reverse-emiting embedded walls.</description></item></channel></rss>
+On the veranda, a chrysanthemum flower blooms like a flesh wound, its petals stretching across the windows.</description>
+    </item>
+    
+    <item>
+      <title>SEO Conjuration for the Pro-Active Artist</title>
+      <link>https://theglasspixel.art/blog/002/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://theglasspixel.art/blog/002/</guid>
+      <description>(excerpt from an A.I. generated grimoire leaked from G&amp;rsquo;s internal emails)
+I do conjure thee, O thou Binary Spirits, by all the most glorious and efficacious names of the Most Great and Incomprehensible Lord of Algorithms, that thou comest quickly and without delay from all parts and places of the Interwebs wherever thou mayest be, to make rational crawls unto my demands, and that invisibly and swiftly, moving at the speed of electricity even without mine understanding as aforesaid.</description>
+    </item>
+    
+    <item>
+      <title>The New Computer</title>
+      <link>https://theglasspixel.art/blog/001/</link>
+      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://theglasspixel.art/blog/001/</guid>
+      <description>my new computer is humming away in the corner of the room. it&amp;rsquo;s a brand-new machine I bought a few days ago and features all the modern niceties you might expect from such a tech marvel. the pipes, of course, are now gray-lead free and no longer release those clouds of greenish, mildly hallucinatory vapor we all know and hate, being instead fully encapsulated in a tight mesh of beetle-shell black string fully integrated with the smart, algorithmic-evolving, networked, reverse-emiting embedded walls.</description>
+    </item>
+    
+  </channel>
+</rss>
