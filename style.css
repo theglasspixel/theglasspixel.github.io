@@ -4,6 +4,8 @@ html {
   font-family: "Times New Roman", serif;
   /* font-family: TNYAdobeCaslonPro, Times New Roman, Times, serif; */
   background: #eee;
+
+  image-rendering: -webkit-optimize-contrast;
 }
 body { 
   /* padding: 1rem;  */
@@ -68,6 +70,7 @@ header .logos {
   /* display: inline-flex; */
   /* margin: 1rem; */
 }
+
 header .logos img{
     max-height: 48px;
   margin: 0.6rem;
@@ -80,13 +83,17 @@ header .logos img{
 }
 @media (min-width: 900px) {
   header .logos img{
-  max-height: 1.3rem;
-    margin: 0.3rem;
+  /* max-height: 1.3rem; */
+  /*   margin: 0.3rem; */
+
+    max-height: 40px;
+    margin: 0.6rem;
   }
 }
 
 header .logos div{
-  width: 250px;
+  /* width: 350px; */
+  width: 50%;
   margin: 0 auto;
 }
 header div{
@@ -102,7 +109,7 @@ header nav {
 }
 header nav a{
   color: black;
-  font-size: 1.3rem;
+  font-size: 2rem;
   margin: 0 1rem;
   text-decoration: none;
 }
@@ -145,8 +152,9 @@ footer .logos {
   /* margin: 1rem; */
 }
 footer .logos img{
-  max-height: 1.3rem;
-  margin: 0.3rem;
+  /* max-height: 1.3rem; */
+  max-height: 48px;
+  margin: 0.5rem;
 }
 /* footer .logos div{ */
 /*   width: 250px; */
