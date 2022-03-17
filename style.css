@@ -111,7 +111,7 @@ header nav {
   margin-bottom: 2rem;
 }
 header nav {
-  font-variant: small-caps;
+  /* font-variant: small-caps; */
 }
 header nav a{
   color: black;

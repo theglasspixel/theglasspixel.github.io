@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+  "name": "The Glass Pixel",
+  "short_name": "TheGlassPixel",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "a digital art website",
+  "icons": [{
+    "src": "/img/pwa/theGlassPixel-48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "/img/pwa/theGlassPixel-72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "/img/pwa/theGlassPixel-96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "/img/pwa/theGlassPixel-144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "/img/pwa/theGlassPixel-168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "/img/pwa/theGlassPixel-192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }]
+}
+
