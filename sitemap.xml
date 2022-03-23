@@ -66,6 +66,19 @@
 
 
   <url>
+    <loc>https://theglasspixel.art/images/2022/03/weltering-emanations.html/</loc>
+    <image:image>
+      <image:loc>https://theglasspixel.art/img/portfolio/theglasspixel--digital-art--.Weltering-Emanationswebp</image:loc>
+      <image:caption>digital abstract composition in green, yellow, and black</image:caption>
+      <image:geo_location>Lisbon, Portugal</image:geo_location>
+      <image:title>Weltering Emanations</image:title>
+    </image:image>
+    <lastmod>2022-03-23T13:55:52+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
     <loc>https://theglasspixel.art/images/2022/03/aftening.html/</loc>
     <image:image>
       <image:loc>https://theglasspixel.art/img/portfolio/theglasspixel--digital-art--Aftening.webp</image:loc>
