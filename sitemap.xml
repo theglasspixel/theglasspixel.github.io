@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://theglasspixel.art/micros.html</loc>
+    <lastmod>2022-03-25T15:46:07+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+
+
+  <url>
     <loc>https://theglasspixel.art/blog/2022/03/bills-art-exhibition.html</loc>
     <lastmod>2022-03-23T15:46:07+00:00</lastmod>
     <changefreq>monthly</changefreq>
