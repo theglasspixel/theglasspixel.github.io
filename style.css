@@ -219,6 +219,17 @@ article h1 {
   max-width: 100%;
 }
 /* ----------------------------------------------- */
+.micros blockquote p{
+  font-style:italic; 
+}
+.micros hr{
+  margin: 2rem 0;
+  height:2px;
+  border-width:0;
+  color:#999;
+  background-color:#999;
+}
+/* ----------------------------------------------- */
 .bloglist{
   max-width: 700px;
   margin: 0 auto;
