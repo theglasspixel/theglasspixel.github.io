@@ -81,9 +81,22 @@
 
 
   <url>
+    <loc>https://theglasspixel.art/images/2022/03/pilgrimage.html/</loc>
+    <image:image>
+      <image:loc>https://theglasspixel.art/img/portfolio/theglasspixel--digital-art--Pilgrimage.webp</image:loc>
+      <image:caption>digital composition in yellow, white and red</image:caption>
+      <image:geo_location>Lisbon, Portugal</image:geo_location>
+      <image:title>Pilgrimage</image:title>
+    </image:image>
+    <lastmod>2022-03-30T13:55:52+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
     <loc>https://theglasspixel.art/images/2022/03/weltering-emanations.html/</loc>
     <image:image>
-      <image:loc>https://theglasspixel.art/img/portfolio/theglasspixel--digital-art--.Weltering-Emanationswebp</image:loc>
+      <image:loc>https://theglasspixel.art/img/portfolio/theglasspixel--digital-art--Weltering-Emanations.webp</image:loc>
       <image:caption>digital abstract composition in green, yellow, and black</image:caption>
       <image:geo_location>Lisbon, Portugal</image:geo_location>
       <image:title>Weltering Emanations</image:title>

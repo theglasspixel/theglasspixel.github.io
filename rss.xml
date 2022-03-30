@@ -8,8 +8,15 @@
     <atom:link href="https://theglasspixel.art/rss.xml" rel="self" type="application/rss+xml"/>
 
 
-    <lastBuildDate>Wed, 23 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Mar 2022 00:00:00 +0000</lastBuildDate>
 
+    <item>
+      <title>Pilgrimage</title>
+      <link>https://theglasspixel.art/images/2022/03/pilgrimage.html</link>
+      <pubDate>Wed, 30 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://theglasspixel.art/images/2022/03/pilgrimage.html</guid>
+      <description>A digital abstract painting by The Glass Pixel.</description>
+    </item>
     <item>
       <title>Weltering Emanations</title>
       <link>https://theglasspixel.art/images/2022/03/weltering-emanations.html</link>
