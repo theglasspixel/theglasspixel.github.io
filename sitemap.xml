@@ -3,13 +3,19 @@
 
   <url>
     <loc>https://theglasspixel.art/micros.html</loc>
-    <lastmod>2022-06-25T15:46:07+00:00</lastmod>
+    <lastmod>2022-07-02T15:46:07+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
 
 
 
+    <url>
+    <loc>https://theglasspixel.art/blog/2022/07/the-lair.html</loc>
+    <lastmod>2022-07-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
     <url>
     <loc>https://theglasspixel.art/blog/2022/06/art-marketing-101-the-happening.html</loc>
     <lastmod>2022-06-25T00:00:00+00:00</lastmod>
