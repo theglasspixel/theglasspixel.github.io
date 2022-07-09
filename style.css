@@ -248,7 +248,7 @@ article h1 {
 .bloglist ul li a {
     text-decoration: none;
     font-size: 130%;
-    color: black;
+    /* color: black; */
 }
 .bloglist ul li a:hover {
     color: #777;
@@ -263,7 +263,7 @@ article h1 {
 }
 
 .bloglist ul li {
-    margin-bottom: 2rem;
+    margin-bottom: 4rem;
 }
 
 .bloglist ul {
