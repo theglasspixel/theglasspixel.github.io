@@ -295,3 +295,13 @@ article h1 {
 .bloglist nav a:hover{
     color: #777;
 }
+/* ----------------------------------------------- */
+.previousnext {
+    margin-bottom: 2rem;
+}
+.previous {
+    float: left;
+}
+.next {
+    float: right;
+}
