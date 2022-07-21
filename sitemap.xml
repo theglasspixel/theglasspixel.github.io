@@ -149,6 +149,18 @@
 
 
     <url>
+    <loc>https://theglasspixel.art/images/2022/07/greenhouse.html</loc>
+    <image:image>
+      <image:loc>https://theglasspixel.art/img/portfolio/theglasspixel--digital-art--Greenhouse.jpg</image:loc>
+      <image:caption>digital abstract composition in multiple colors</image:caption>
+      <image:geo_location>Lisbon, Portugal</image:geo_location>
+      <image:title>Greenhouse - abstract painting</image:title>
+    </image:image>
+    <lastmod>2022-07-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+    <url>
     <loc>https://theglasspixel.art/images/2022/06/rubrickredd.html</loc>
     <image:image>
       <image:loc>https://theglasspixel.art/img/portfolio/theglasspixel--digital-art--Rubrickredd.jpg</image:loc>
